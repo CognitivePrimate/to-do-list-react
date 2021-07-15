@@ -1,0 +1,3 @@
+tr.ToDoItem td.completed {
+    text-decoration: line-through;
+}
